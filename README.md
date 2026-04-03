@@ -1,3 +1,20 @@
+# libtiny3d – 3D Graphics Engine (Completed Project)
+
+## Project Overview:
+libtiny3d is a 4-week systems programming project in which I developed a full-featured 3D graphics engine entirely from scratch in C. The project involved implementing all core components of a software rendering engine without relying on existing graphics libraries like OpenGL or DirectX, providing a deep understanding of the computational and mathematical foundations behind 3D graphics.
+
+### Key Achievements:
+
+Software Rendering Pipeline: Designed and implemented a complete pipeline to convert 3D geometric data into 2D images, including vertex processing, projection, and rasterization.
+Custom Math Libraries: Built vector and matrix operations from the ground up to support 3D transformations, rotations, and scaling.
+Floating-Point Canvas System: Created a rendering canvas capable of drawing smooth lines and shapes with sub-pixel precision.
+Lighting System: Developed lighting algorithms to simulate realistic interactions between light and 3D objects.
+Animation Framework: Implemented advanced interpolation techniques to animate 3D objects smoothly over time.
+Demonstration: Produced a working demo featuring animated, lit 3D wireframe objects, showcasing the engine’s capabilities.
+
+### Outcome:
+The project provided hands-on experience with low-level systems programming, linear algebra, and real-time rendering concepts. It successfully demonstrated the ability to construct a functioning 3D graphics engine from first principles, highlighting both technical depth and software design skills.
+
 ## 3d-renderer-library
 
 This library defines some functionalities and improvisations that can be implemented related to 3d rendering and drawing in a canvas in C language related build enviornments.
